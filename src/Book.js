@@ -1,10 +1,12 @@
-import React from 'react'
+import React from 'react';
 import BookControl from "./BookControl"
 
+/*
 class Book extends React.Component {
   render() {
     const { book, onChangeShelf } = this.props;
-
+*/
+function Book({book, onChangeShelf}) {
     return (
       <li>
           <div className="book">
@@ -18,7 +20,9 @@ class Book extends React.Component {
           </div>
       </li>
     )
-  }
+  
 }
+
+
 
 export default Book

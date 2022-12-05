@@ -2,9 +2,10 @@ import React from 'react'
 import Bookshelf from "./Bookshelf"
 import SearchPage from "./SearchPage"
 
-class ListBooks extends React.Component {
-  render() {
-    const { books, shelves, onChangeShelf } = this.props;
+/*class ListBooks extends React.Component {
+  render() { */
+  function ListBooks({books, shelves, onChangeShelf}) {
+    /*const { books, shelves, onChangeShelf } = this.props; */
     console.log(books);
     // filter books for a particular shelf
     function booksOnShelf (shelf){
@@ -27,6 +28,6 @@ class ListBooks extends React.Component {
       </div>
     )
   }
-}
+
 
 export default ListBooks
