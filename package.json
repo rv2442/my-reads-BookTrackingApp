@@ -2,7 +2,7 @@
   "name": "myreads-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rv2442-udacity-myreads.github.io",
+  "homepage": "https://rv2442.github.io/",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "prop-types": "^15.6.2",
