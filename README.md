@@ -50,6 +50,9 @@ UI and URL are in sync
 ![screenshot1](./public/imgs/screenshot1.png)
 ![screenshot2](./public/imgs/screenshot2.png)
 
+## Demo
+* https://rv2442.github.io/my-reads-BookTrackingApp/
+
 ## Installation
 
 Clone the repository, change directories, and use NPM to install the dependencies.
