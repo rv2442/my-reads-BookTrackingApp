@@ -5,7 +5,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rv2442/my-reads-BookTrackingApp"
-  }
+  },
   "homepage": "https://rv2442.github.io/my-reads-BookTrackingApp",
   "dependencies": {
     "gh-pages": "^4.0.0",
